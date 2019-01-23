@@ -1,0 +1,3 @@
+jinja2
+git+git://github.com/zooniverse/panoptes-python-client.git
+requests
